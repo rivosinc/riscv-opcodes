@@ -114,6 +114,7 @@ csrs = [
   (0x144, 'sip'),
   (0x14D, 'stimecmp'), # Sstc
   (0x180, 'satp'),
+  (0x181, 'sqoscfg'),
   (0x5A8, 'scontext'),
 
   # Standard Hypervisor R/w
